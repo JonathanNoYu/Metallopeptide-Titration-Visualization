@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Yes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yes_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ChemCSVReader.jar">
+        <element id="module-output" name="ChemCSVReader" />
+      </element>
+      <element id="library" level="project" name="javafx-sdk-18.0" />
+      <element id="library" level="project" name="opencsv-5.6" />
+      <element id="library" level="project" name="commons-lang3-3.12.0" />
+    </root>
+  </artifact>
+</component>
